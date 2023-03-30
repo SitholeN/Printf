@@ -1,4 +1,4 @@
 # printf
 Team Task
-Group Project
+Group Project: Neo Sithole and Jamie Henshaw
 
